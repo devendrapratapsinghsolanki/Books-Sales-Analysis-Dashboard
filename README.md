@@ -1,9 +1,4 @@
-📌 Repository Name
 
-Books-Sales-Analysis-Dashboard
-
-📖 README File (Content)
-Books Sales Analysis Dashboard
 📊 Project Overview
 
 This project is a Power BI Dashboard created to analyze book sales data. It provides insights into sales, revenue, transactions, and customer distribution across states.
@@ -24,20 +19,13 @@ State-wise Billing Analysis: Pie chart representation
 
 Power BI for dashboard creation
 
-Excel / CSV as data source
-
-DAX Measures for KPIs
+Excel / CSV as data sources
 
 📷 Dashboard Preview
 
 (Include the dashboard image here)
 
 📌 Key Learnings
-
 Data Cleaning & Preparation
-
-DAX Functions
-
 Dashboard Design Principles
-
 Storytelling with Data
